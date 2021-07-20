@@ -1,0 +1,5 @@
+<svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+  <path fill="#1F2937" fill-rule="evenodd" d="M2 21a1 1 0 0 1 1-1h18a1 1 0 1 1 0 2H3a1 1 0 0 1-1-1z" clip-rule="evenodd"/>
+  <path fill="#1F2937" fill-rule="evenodd" d="M13.526 2.15A1 1 0 0 1 14 3v18a1 1 0 1 1-2 0V4.618l-6 3V21a1 1 0 1 1-2 0V7a1 1 0 0 1 .553-.894l8-4a1 1 0 0 1 .973.043z" clip-rule="evenodd"/>
+  <path fill="#1F2937" fill-rule="evenodd" d="M12.168 6.441a1 1 0 0 1 1.387-.277l6 4a1 1 0 0 1 .445.832v10a1 1 0 1 1-2 0v-9.465l-5.555-3.703a1 1 0 0 1-.277-1.387zM9 8a1 1 0 0 1 1 1v.01a1 1 0 0 1-2 0V9a1 1 0 0 1 1-1zM9 11a1 1 0 0 1 1 1v.01a1 1 0 1 1-2 0V12a1 1 0 0 1 1-1zM9 14a1 1 0 0 1 1 1v.01a1 1 0 1 1-2 0V15a1 1 0 0 1 1-1zM9 17a1 1 0 0 1 1 1v.01a1 1 0 1 1-2 0V18a1 1 0 0 1 1-1z" clip-rule="evenodd"/>
+</svg>

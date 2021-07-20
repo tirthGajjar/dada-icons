@@ -1,0 +1,156 @@
+{
+  "comment": "This is the settings file for the SVGO Compressor Plugin. For more info, please check <https://github.com/BohemianCoding/svgo-compressor>",
+  "pretty": true,
+  "indent": 2,
+  "floatPrecision": 3,
+  "plugins": [
+    {
+      "name": "removeDimensions",
+      "active": true
+    },
+    {
+      "name": "removeXMLNS",
+      "active": false
+    },
+    {
+      "name": "sortAttrs",
+      "active": false
+    },
+    {
+      "name": "removeAttrs",
+      "params": {
+        "attrs": "stroke"
+      }
+    },
+    {
+      "name": "addAttributesToSVGElement",
+      "params": {
+        "attributes": [
+          {
+            "stroke": "currentColor"
+          }
+        ]
+      }
+    },
+    {
+      "name": "removeDoctype"
+    },
+    {
+      "name": "removeXMLProcInst"
+    },
+    {
+      "name": "removeComments"
+    },
+    {
+      "name": "removeMetadata"
+    },
+    {
+      "name": "removeXMLNS"
+    },
+    {
+      "name": "removeEditorsNSData"
+    },
+    {
+      "name": "cleanupAttrs"
+    },
+    {
+      "name": "inlineStyles"
+    },
+    {
+      "name": "minifyStyles"
+    },
+    {
+      "name": "convertStyleToAttrs"
+    },
+    {
+      "name": "removeRasterImages"
+    },
+    {
+      "name": "removeUselessDefs"
+    },
+    {
+      "name": "cleanupNumericValues"
+    },
+    {
+      "name": "cleanupListOfValues"
+    },
+    {
+      "name": "convertColors"
+    },
+    {
+      "name": "removeUnknownsAndDefaults"
+    },
+    {
+      "name": "removeNonInheritableGroupAttrs"
+    },
+    {
+      "name": "removeUselessStrokeAndFill"
+    },
+    {
+      "name": "removeViewBox"
+    },
+    {
+      "name": "cleanupEnableBackground"
+    },
+    {
+      "name": "removeEmptyText"
+    },
+    {
+      "name": "convertShapeToPath"
+    },
+    {
+      "name": "moveElemsAttrsToGroup"
+    },
+    {
+      "name": "moveGroupAttrsToElems"
+    },
+    {
+      "name": "collapseGroups"
+    },
+    {
+      "name": "convertPathData"
+    },
+    {
+      "name": "convertEllipseToCircle"
+    },
+    {
+      "name": "convertTransform"
+    },
+    {
+      "name": "removeEmptyAttrs"
+    },
+    {
+      "name": "removeEmptyContainers"
+    },
+    {
+      "name": "mergePaths"
+    },
+    {
+      "name": "removeUnusedNS"
+    },
+    {
+      "name": "reusePaths"
+    },
+    {
+      "name": "sortAttrs"
+    },
+    {
+      "name": "sortDefsChildren"
+    },
+    {
+      "name": "removeTitle"
+    },
+    {
+      "name": "removeDesc"
+    },
+    {
+      "name": "removeDimensions"
+    },
+    {
+      "name": "removeStyleElement"
+    },
+    {
+      "name": "removeScriptElement"
+    }
+  ]
+}
